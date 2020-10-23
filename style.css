@@ -1,0 +1,34 @@
+body {
+	color: white;
+	background-color: #000000;
+	background: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Roboto";
+}
+
+
+
+#myCanvas {
+
+	background-color: white;
+
+}
+
+h2 {
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+}
+
+h3 {
+	display: inline-block;
+}
+
+
+
+#head_info {
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
